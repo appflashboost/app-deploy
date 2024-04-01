@@ -6,5 +6,6 @@
             "Appflashboost\\AppDeploy\\": "src/"
         }
     },
+    "minimum-stability": "stable",
     "require": {}
 }
