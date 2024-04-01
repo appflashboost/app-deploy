@@ -1,0 +1,10 @@
+{
+    "name": "appflashboost/app_deploy",
+    "bin": ["bin/my-app"],
+    "autoload": {
+        "psr-4": {
+            "Appflashboost\\AppDeploy\\": "src/"
+        }
+    },
+    "require": {}
+}
